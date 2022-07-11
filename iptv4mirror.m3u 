@@ -1,4 +1,4 @@
-#EXTM3U x-url-tvg="https://bit.ly/AqFadTVEPG"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="1440" max-conn="1" refresh="24" 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://previews.123rf.com/images/billah9/billah92005/billah9200500222/146159558-initial-monogram-letter-sr-logo-design-vector-template-graphic-alphabet-symbol-for-corporate-busines.jpg" group-title="!!!❤️ SR LEGACY CHANNEL❤️!!!",SR Legacy TV
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
@@ -8248,7 +8248,7 @@ http://39.135.138.60:18890/TVOD/88888910/224/3221225674/index.m3u8
 http://39.135.138.60:18890/TVOD/88888910/224/3221225659/index.m3u8
 #EXTINF:-1  tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="🇨🇳China",东方卫视
 http://39.135.138.60:18890/TVOD/88888910/224/3221225658/index.m3u8
-#EXTINF:-1  tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="🇨🇳China",东南卫视
+#EXTINF:-1  tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="🇨??China",东南卫视
 http://39.135.138.60:18890/TVOD/88888910/224/3221225657/index.m3u8
 #EXTINF:-1  tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="🇨🇳China",黑龙江卫视
 http://39.135.138.60:18890/TVOD/88888910/224/3221225690/index.m3u8
