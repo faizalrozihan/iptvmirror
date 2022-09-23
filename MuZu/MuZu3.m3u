@@ -488,13 +488,13 @@ https://astro4.rastream.com/bayu
 #EXTINF:-1 tvg-id="104" tvg-name="RIA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/ria.png" group-title="MuZu | Astro",RIA HD 
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro.prima.my" tvg-name="PRIMA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/prima.png" group-title="MuZu | Astro",PRIMA HD 
+#EXTINF:-1 tvg-id="105" tvg-name="PRIMA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/prima.png" group-title="MuZu | Astro",PRIMA HD 
 https://my.odtv.uk:443/live/9486331171/7860879594/16.ts
 
-#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="OASIS HD" tvg-logo="http://www.cloudnspro.xyz/esmi/oasis.png" group-title="MuZu | Astro",OASIS HD
+#EXTINF:-1 tvg-id="106" tvg-name="OASIS HD" tvg-logo="http://www.cloudnspro.xyz/esmi/oasis.png" group-title="MuZu | Astro",OASIS HD
 https://my.odtv.uk:443/live/9486331171/7860879594/17.ts
 
-#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="CITRA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/citra.png" group-title="Malay",CITRA HD
+#EXTINF:-1 tvg-id="108" tvg-name="CITRA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/citra.png" group-title="Malay",CITRA HD
 https://my.odtv.uk:443/live/9486331171/7860879594/19.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -502,13 +502,13 @@ https://my.odtv.uk:443/live/9486331171/7860879594/19.ts
 #EXTINF:-1 tvg-id="104" tvg-name="RIA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/ria.png" group-title="MuZu | Astro" ,RIA HD
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro.prima.my" tvg-name="PRIMA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/prima.png" group-title=" MuZu | Astro",PRIMA HD
+#EXTINF:-1 tvg-id="105" tvg-name="PRIMA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/prima.png" group-title=" MuZu | Astro",PRIMA HD
 https://my.odtv.uk:443/live/9486331171/7860879594/16.ts
 
-#EXTINF:-1 tvg-id="astro.warna.my" tvg-name="WARNA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/warna.png" group-title=" MuZu | Astro",WARNA HD
+#EXTINF:-1 tvg-id="107" tvg-name="WARNA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/warna.png" group-title=" MuZu | Astro",WARNA HD
 https://my.odtv.uk:443/live/9486331171/7860879594/18.ts
 
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Oasis" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="MALAYSIA",Oasis
+#EXTINF:-1 tvg-id="106" tvg-name="Oasis" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="MALAYSIA",Oasis
 https://link.zozotv.xyz:443/Freemium2/unlimited99/30
 
 #EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/BwHtb4d/jtf.png" group-title="MALAYSIA",Drama Sangat
@@ -526,10 +526,10 @@ https://nonton.site:8443/blink4/frknnyvc9e/455
 #EXTINF:-1 tvg-id="NatGeoWild.id" tvg-name="Nat Geo Wild HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="MuZu | Knowledge",Nat Geo Wild HD
 https://nonton.site:8443/blink4/frknnyvc9e/97
 
-#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-logo="https://i.ibb.co/jWffcwm/ASTROARENA.png" group-title="MuZu | Sport",Astro Arena
+#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena" tvg-logo="https://i.ibb.co/jWffcwm/ASTROARENA.png" group-title="MuZu | Sport",Astro Arena
 http://syarman.my.id:25461/0208/0208/598
 
-#EXTINF:-1 tvg-id="astroceria.my" tvg-name="CERIA" tvg-logo="http://www.cloudnspro.xyz/esmi/ceria.png" group-title="MuZu | Kids",CERIA
+#EXTINF:-1 tvg-id="611" tvg-name="CERIA" tvg-logo="http://www.cloudnspro.xyz/esmi/ceria.png" group-title="MuZu | Kids",CERIA
 https://my.odtv.uk:443/live/9486331171/7860879594/99.ts
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MuZu | Movie",HBO HD
@@ -556,13 +556,13 @@ http://syarman.my.id:25461/0208/0208/29
 #EXTINF:-1 tvg-id="UHUUAction" ch-number="338" group-title="MuZu | Movie" tvg-logo="https://linear-poster.astro.com.my/prod/logo/UHUUAction.png",338 UHUU Action!
 http://asrazunifi.ddns.net:8080/uhuuaction.m3u8
 
-#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="CITRA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/citra.png" group-title="MuZu | Astro",CITRA HD
+#EXTINF:-1 tvg-id="108" tvg-name="CITRA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/citra.png" group-title="MuZu | Astro",CITRA HD
 https://my.odtv.uk:443/live/9486331171/7860879594/19.ts
 
-#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="OASIS HD" tvg-logo="http://www.cloudnspro.xyz/esmi/oasis.png" group-title="MuZu | Astro",OASIS HD
+#EXTINF:-1 tvg-id="106" tvg-name="OASIS HD" tvg-logo="http://www.cloudnspro.xyz/esmi/oasis.png" group-title="MuZu | Astro",OASIS HD
 https://my.odtv.uk:443/live/9486331171/7860879594/17.ts
 
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/TgwWM4r/OASIS.png" group-title="MuZu | Astro",Astro Oasis
+#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/TgwWM4r/OASIS.png" group-title="MuZu | Astro",Astro Oasis
 http://syarman.my.id:25461/0208/0208/544
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -575,73 +575,75 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #EXTINF:-1 tvg-id="104" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/MM7h51z/ASTRORIA.png" group-title="MuZu | Astro",Astro Ria
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-id="astro.prima.my" tvg-name="PRIMA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/prima.png" group-title=" MuZu | Astro",PRIMA HD
+#EXTINF:-1 tvg-id="105" tvg-name="PRIMA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/prima.png" group-title=" MuZu | Astro",PRIMA HD
 https://my.odtv.uk:443/live/9486331171/7860879594/16.ts
 
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://i.ibb.co/b1HWYvw/ASTROPRIMA.png" group-title="MuZu | Astro",Astro Prima
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima" tvg-logo="https://i.ibb.co/b1HWYvw/ASTROPRIMA.png" group-title="MuZu | Astro",Astro Prima
 http://syarman.my.id:25461/0208/0208/545
 
-#EXTINF:-1 tvg-id="astro.warna.my" tvg-name="WARNA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/warna.png" group-title=" MuZu | Astro",WARNA HD
+#EXTINF:-1 tvg-id="107" tvg-name="WARNA HD" tvg-logo="http://www.cloudnspro.xyz/esmi/warna.png" group-title=" MuZu | Astro",WARNA HD
 https://my.odtv.uk:443/live/9486331171/7860879594/18.ts
 
 #EXTINF:-1 tvg-id="NatGeoPeople.id" tvg-name="Nat Geo People HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="MuZu | Knowledge",Nat Geo People HD
 https://nonton.site:8443/blink4/frknnyvc9e/455
 
-#EXTINF:-1 tvg-id="1551" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/HCkJy2p/NATGEO.png" group-title="MuZu | Knowledge",National Geographic
+#EXTINF:-1 tvg-id="551" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/HCkJy2p/NATGEO.png" group-title="MuZu | Knowledge",National Geographic
 http://syarman.my.id:25461/0208/0208/122
 
-#EXTINF:-1 tvg-id="NatGeoWild.id" tvg-name="Nat Geo Wild HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="MuZu | Knowledge",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="MuZu | Knowledge",Nat Geo Wild HD
 https://nonton.site:8443/blink4/frknnyvc9e/97
 
-#EXTINF:-1 tvg-id="1550" tvg-name="National Geographic Wild" tvg-logo="https://i.ibb.co/cYC62XM/NATGEOWILD.png" group-title="MuZu | Knowledge",National Geographic Wild
+#EXTINF:-1 tvg-id="550" tvg-name="National Geographic Wild" tvg-logo="https://i.ibb.co/cYC62XM/NATGEOWILD.png" group-title="MuZu | Knowledge",National Geographic Wild
 http://syarman.my.id:25461/0208/0208/123
 
-#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-logo="https://i.ibb.co/jWffcwm/ASTROARENA.png" group-title="MuZu | Sport",Astro Arena
+#EXTINF:-1 tvg-id="801" tvg-name="Astro Arena" tvg-logo="https://i.ibb.co/jWffcwm/ASTROARENA.png" group-title="MuZu | Sport",Astro Arena
 http://syarman.my.id:25461/0208/0208/598
 
-#EXTINF:-1 tvg-id="1556" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/LPf1xKt/ANIMALPLANET.png" group-title="MuZu | Knowledge",Animal Planet
+#EXTINF:-1 tvg-id="556" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/LPf1xKt/ANIMALPLANET.png" group-title="MuZu | Knowledge",Animal Planet
 http://syarman.my.id:25461/0208/0208/104
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://i.ibb.co/p0JNPhk/CERIA.png" group-title="MuZu | Kids",Astro Ceria
+#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria" tvg-logo="https://i.ibb.co/p0JNPhk/CERIA.png" group-title="MuZu | Kids",Astro Ceria
 http://syarman.my.id:25461/0208/0208/543
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="MuZu | Sport",Astro SuperSport 1
-http://syarman.my.id:25461/0208/0208/540
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport 1" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="MuZu | Sport",Astro SuperSport 1
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="MuZu | Sport",Astro SuperSport 2
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="MuZu | Sport",Astro SuperSport 2
 http://syarman.my.id:25461/0208/0208/541
 
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="MuZu | Sport",Astro SuperSport 3
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="MuZu | Sport",Astro SuperSport 3
 http://syarman.my.id:25461/0208/0208/542
 
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="MuZu | Sport",Astro SuperSport 4
+#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="MuZu | Sport",Astro SuperSport 4
 http://syarman.my.id:25461/0208/0208/599
 
-#EXTINF:-1 tvg-id="1818" tvg-name="beIN Sports 1" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="MuZu | Sport",beIN Sports 1
+#EXTINF:-1 tvg-id="818" tvg-name="beIN Sports 1" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="MuZu | Sport",beIN Sports 1
 http://syarman.my.id:25461/0208/0208/76
 
-#EXTINF:-1 tvg-id="1819" tvg-name="beIN Sports 3" tvg-logo="https://i.ibb.co/gJZ8SLq/BEINSPORTS3.png" group-title="MuZu | Sport",beIN Sports 3
+#EXTINF:-1 tvg-id="819" tvg-name="beIN Sports 3" tvg-logo="https://i.ibb.co/gJZ8SLq/BEINSPORTS3.png" group-title="MuZu | Sport",beIN Sports 3
 http://syarman.my.id:25461/0208/0208/77
 
-#EXTINF:-1 tvg-id="1619" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/RgH0Zj8/BOOMERANG.png" group-title="MuZu | Kids",Boomerang
+#EXTINF:-1 tvg-id="619" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/RgH0Zj8/BOOMERANG.png" group-title="MuZu | Kids",Boomerang
 http://syarman.my.id:25461/0208/0208/225
 
-#EXTINF:-1 tvg-id="1615" tvg-name="Cartoon Network UseeTV" tvg-logo="https://i.ibb.co/j3rKLd9/CARTOONNETWORK.png" group-title="MuZu | Kids",Cartoon Network UseeTV
+#EXTINF:-1 tvg-id="615" tvg-name="Cartoon Network UseeTV" tvg-logo="https://i.ibb.co/j3rKLd9/CARTOONNETWORK.png" group-title="MuZu | Kids",Cartoon Network UseeTV
 http://syarman.my.id:25461/0208/0208/95
 
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors HD" tvg-logo="https://i.ibb.co/6F852NQ/COLORSHD.png" group-title="MuZu | India",Colors HD
+#EXTINF:-1 tvg-id="116" tvg-name="Colors HD" tvg-logo="https://i.ibb.co/6F852NQ/COLORSHD.png" group-title="MuZu | India",Colors HD
 http://syarman.my.id:25461/0208/0208/552
 
-#EXTINF:-1 tvg-id="1553" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/fkg1YZg/DISCOVERYASIA.png" group-title="MuZu | Knowledge",Discovery Asia
+#EXTINF:-1 tvg-id="553" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/fkg1YZg/DISCOVERYASIA.png" group-title="MuZu | Knowledge",Discovery Asia
 http://syarman.my.id:25461/0208/0208/107
 
-#EXTINF:-1 tvg-id="nickelodeon.my" tvg-name="NICKELODEON" tvg-logo="http://www.cloudnspro.xyz/esmi/nick.png" group-title="MuZu | Kids",NICKELODEON
+#EXTINF:-1 tvg-id="616" tvg-name="NICKELODEON" tvg-logo="http://www.cloudnspro.xyz/esmi/nick.png" group-title="MuZu | Kids",NICKELODEON
 https://my.odtv.uk:443/live/9486331171/7860879594/104.ts
 
-#EXTINF:-1 tvg-id="nickelodeon.junior.my" tvg-name="NICK JUNIOR" tvg-logo="http://www.cloudnspro.xyz/esmi/nickjr.png" group-title="MuZu | Kids",NICK JUNIOR
+#EXTINF:-1 tvg-id="617" tvg-name="NICK JUNIOR" tvg-logo="http://www.cloudnspro.xyz/esmi/nickjr.png" group-title="MuZu | Kids",NICK JUNIOR
 https://my.odtv.uk:443/live/9486331171/7860879594/105.ts
 
-#EXTINF:-1 tvg-id="astroboo.my" tvg-name="BOO" group-title="MuZu | Movie",BOO
+#EXTINF:-1 tvg-id="404" tvg-name="BOO" group-title="MuZu | Movie",BOO
 http://w.nasvpn.xyz:8080/smartviptv/smartviptv/177
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355" group-title="MALAYSIA", CITRA 
@@ -1225,6 +1227,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #EXTINF:-1 group-title="MuZu | myFreeview" tvg-logo="https://i.postimg.cc/DfRv24K4/TV9-2021.png" tvg-id="TV9" ,149 TV9
 https://aqfadtv.astradamy.com/stream/TV9.php
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 group-title="MuZu | Astro" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png" tvg-id="AstroRia" ,104 Astro Ria
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
@@ -1516,7 +1520,9 @@ https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/154.ts
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/400.ts
 
 #EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="MuZu | Sport",ASTRO SUPERSPORT
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/155.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="MuZu | Sport",ASTRO SUPERSPORT 2
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/156.ts
@@ -2154,7 +2160,9 @@ https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/154.ts
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/400.ts
 
 #EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="MuZu | Sports",ASTRO SUPERSPORT
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/155.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="MuZu | Sports",ASTRO SUPERSPORT 2
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/156.ts
