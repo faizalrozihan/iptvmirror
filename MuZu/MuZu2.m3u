@@ -18,7 +18,7 @@ window.location = "https://www.astro.com.my"
 https://nonton.site:8443/blink4/frknnyvc9e/37334
 
 #EXTINF:-1 tvg-id="" tvg-name="MY - Astro Citra HD" tvg-logo="" group-title="MALAYSIA|ASTRO",MY - Astro Citra HD
-https://nonton.site:8443/blink4/frknnyvc9e/37407
+https://aqfadtv.xyz/live/citra/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
@@ -28,12 +28,12 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MuZu | Astro",ASTRO WARNA
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
+https://aqfadtv.xyz/live/warna/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MuZu | Astro",ASTRO CITRA
-http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2700/default_ott.mpd
+https://aqfadtv.xyz/live/citra/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
@@ -111,11 +111,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ae3120ac55315813212677bbb2ce8b10&key=dfb51c7a6e066fe0aa1da05ab2ae1a9d
-#EXTINF:-1 tvg-id="204" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Makkal-TV_v1.png" group-title="MuZu | India",MAKKAL TV
-http://linearjitp-playback.astro.com.my/dash-wv/linear/709/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=505f7a8803b542e78941a6bfe40d2910&key=166626a62cf1b356c298b58842c60661
 #EXTINF:-1 tvg-id="221" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png" group-title="MuZu | India",STAR VIJAY
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
@@ -171,19 +166,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=72c97cb54df5626d72ab35a1d6efaf10&key=8d40587f3f21561aa2ca5b5bf008187e
-#EXTINF:-1 tvg-id="353" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="MuZu | Chinese",ASTRO AOD 353
-http://linearjitp-playback.astro.com.my/dash-wv/linear/905/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d24b39ffd2824eeb3e03eb5da918ad10&key=7ca1866a4eace300a65998d1fc94ac28
 #EXTINF:-1 tvg-id="354" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="MuZu | Chinese",ASTRO AOD 354
 http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=12415fae0e5af6a762e14eee8017ca10&key=0ae4216d6d772906acd1531c12adaead
-#EXTINF:-1 tvg-id="355" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="MuZu | Chinese",ASTRO AOD 355
-http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09db4c1b805ee425c48f2f328e641110&key=280b40db599c53c1620d3fc0e41c7fdd
@@ -236,11 +221,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=36886a39c10db1d40b475aa8cf7f6b10&key=1fdf84adbe05d8183d140b9a2e116a96
-#EXTINF:-1 tvg-id="323" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVBSNEWS_v4.png" group-title="MuZu | Chinese",TVBS NEWS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
 #EXTINF:-1 tvg-id="111" tvg-logo="http://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png" group-title="MuZu | Chinese",GO SHOP
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
@@ -259,11 +239,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
 #EXTINF:-1 tvg-id="396" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="MuZu | Korea",K PLUS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
-#EXTINF:-1 tvg-id="394" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OhK_v1.png" group-title="MuZu | Korea",OH!K
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
@@ -469,11 +444,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c895c9ffb76edf62261e7588665a7310&key=2bd500fc595131eaf160258a85dc72b6
 #EXTINF:-1 tvg-id="706" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="MuZu | Variety",HITS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c7fa397ac42a9a4c6375a3653db84710&key=cd6bf0c7a2a8937e0a0431762189149f
-#EXTINF:-1 tvg-id="705" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KIX_HD_v1.png" group-title="MuZu | Variety",KIX
-http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8762b5ff9680955e720e5ecb5ce78a10&key=187d7e7cb322853a0b485c47a7a12135
@@ -710,12 +680,12 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MuZu | Astro",ASTRO WARNA
-http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://aqfadtv.xyz/live/warna/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MuZu | Astro",ASTRO CITRA
-http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2700/default_ott.mpd
+https://aqfadtv.xyz/live/citra/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -743,10 +713,10 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/02-1080.mpd
 https://mediahomes.github.io/assets/my/ch_8tv.m3u8
 
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MuZu | Astro",ASTRO WARNA
-http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1706
+https://aqfadtv.xyz/live/warna/index.mpd
 
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MuZu | Astro",ASTRO CITRA
-http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1707
+https://aqfadtv.xyz/live/citra/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
@@ -761,7 +731,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MALAYSIA",ASTRO WARNA
-http://linears-playback.astro.com.my/vsg/41M58MLDIexJFblr4bmptB8eEcVhkmv-hfkpPNsYWzBSE=KROL/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://aqfadtv.xyz/live/warna/index.mpd
 
 #EXTINF:-1 group-title="MuZu | Pok Ya Cong Codei" tvg-logo="https://bit.ly/3NxJgx2",Pok Ya Cong Codei Memburu Siti EP 01
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -806,12 +776,12 @@ https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/aeb2f620-f41b-5429-b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAYSIA",ASTRO RIA
-http://linears-playback.astro.com.my/vsg/41M58MLDIexJFblr4bmptB8eEcVhkmv-hfkpPNsYWzBSE=KROL/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MALAYSIA",ASTRO WARNA
-http://linears-playback.astro.com.my/vsg/41M58MLDIexJFblr4bmptB8eEcVhkmv-hfkpPNsYWzBSE=KROL/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://aqfadtv.xyz/live/warna/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mzulhairyhusin.vercel.app/api/raw/?path=/man%20of%20steel.jpg" group-title="MuZu | VOD",MAN OF STEEL
 https://mzulhairyhusin.vercel.app/api/raw/?path=/IMG_20220402_161806_084.mp4
@@ -838,13 +808,13 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MuZu | Astro",ASTRO WARNA
 #http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2402/default_primary.mpd
-https://live.astradamy.com/astro/warna/index.mpd
+https://aqfadtv.xyz/live/warna/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MuZu | Astro",ASTRO CITRA
 #http://linears-playback.astro.com.my/vsg/211BweEEIFlXWPeAxqrqRs0EJW1WmSHiyCfopOW3k2qto=l0Om/dash-wv/jitp-linearwm/2700/default_primary.mpd
-https://live.astradamy.com/astro/citra/index.mpd
+https://aqfadtv.xyz/live/citra/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
@@ -927,11 +897,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ae3120ac55315813212677bbb2ce8b10&key=dfb51c7a6e066fe0aa1da05ab2ae1a9d
-#EXTINF:-1 tvg-id="204" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Makkal-TV_v1.png" group-title="MuZu | India",MAKKAL TV
-http://linearjitp-playback.astro.com.my/dash-wv/linear/709/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=505f7a8803b542e78941a6bfe40d2910&key=166626a62cf1b356c298b58842c60661
 #EXTINF:-1 tvg-id="221" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png" group-title="MuZu | India",STAR VIJAY
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
@@ -987,19 +952,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=72c97cb54df5626d72ab35a1d6efaf10&key=8d40587f3f21561aa2ca5b5bf008187e
-#EXTINF:-1 tvg-id="353" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="MuZu | Chinese",ASTRO AOD 353
-http://linearjitp-playback.astro.com.my/dash-wv/linear/905/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d24b39ffd2824eeb3e03eb5da918ad10&key=7ca1866a4eace300a65998d1fc94ac28
 #EXTINF:-1 tvg-id="354" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="MuZu | Chinese",ASTRO AOD 354
 http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=12415fae0e5af6a762e14eee8017ca10&key=0ae4216d6d772906acd1531c12adaead
-#EXTINF:-1 tvg-id="355" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="MuZu | Chinese",ASTRO AOD 355
-http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09db4c1b805ee425c48f2f328e641110&key=280b40db599c53c1620d3fc0e41c7fdd
@@ -1052,11 +1007,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=36886a39c10db1d40b475aa8cf7f6b10&key=1fdf84adbe05d8183d140b9a2e116a96
-#EXTINF:-1 tvg-id="323" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVBSNEWS_v4.png" group-title="MuZu | Chinese",TVBS NEWS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
 #EXTINF:-1 tvg-id="111" tvg-logo="http://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png" group-title="MuZu | Chinese",GO SHOP
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_primary.mpd
@@ -1075,11 +1025,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
 #EXTINF:-1 tvg-id="396" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="MuZu | Korea",K PLUS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
-#EXTINF:-1 tvg-id="394" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OhK_v1.png" group-title="MuZu | Korea",OH!K
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
@@ -1285,11 +1230,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c895c9ffb76edf62261e7588665a7310&key=2bd500fc595131eaf160258a85dc72b6
 #EXTINF:-1 tvg-id="706" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="MuZu | Variety",HITS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c7fa397ac42a9a4c6375a3653db84710&key=cd6bf0c7a2a8937e0a0431762189149f
-#EXTINF:-1 tvg-id="705" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KIX_HD_v1.png" group-title="MuZu | Variety",KIX
-http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8762b5ff9680955e720e5ecb5ce78a10&key=187d7e7cb322853a0b485c47a7a12135
@@ -1556,12 +1496,12 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MuZu | Astro",ASTRO WARNA
-http://linears-playback.astro.com.my/vsg/41WoJYBBbfPO62bh4Szi-2ob0jrHAD8bc5muLDm-pCVXQ=Dw2f/dash-wv/jitp-linearwm/2402/default_primary.mpd
+https://aqfadtv.xyz/live/warna/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MuZu | Astro",ASTRO CITRA
-http://linears-playback.astro.com.my/vsg/41WoJYBBbfPO62bh4Szi-2oXc_rJKqDBwZgeIV4lkUPsI=tCuZ/dash-wv/jitp-linearwm/2700/default_primary.mpd
+https://aqfadtv.xyz/live/citra/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
@@ -1713,11 +1653,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ae3120ac55315813212677bbb2ce8b10&key=dfb51c7a6e066fe0aa1da05ab2ae1a9d
-#EXTINF:-1 tvg-id="204" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Makkal-TV_v1.png" group-title="MuZu | India",MAKKAL TV
-http://linearjitp-playback.astro.com.my/dash-wv/linear/709/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=505f7a8803b542e78941a6bfe40d2910&key=166626a62cf1b356c298b58842c60661
 #EXTINF:-1 tvg-id="221" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png" group-title="MuZu | India",STAR VIJAY
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
@@ -1778,19 +1713,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=72c97cb54df5626d72ab35a1d6efaf10&key=8d40587f3f21561aa2ca5b5bf008187e
-#EXTINF:-1 tvg-id="353" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="MuZu | Chinese",ASTRO AOD 353
-http://linearjitp-playback.astro.com.my/dash-wv/linear/905/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d24b39ffd2824eeb3e03eb5da918ad10&key=7ca1866a4eace300a65998d1fc94ac28
 #EXTINF:-1 tvg-id="354" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="MuZu | Chinese",ASTRO AOD 354
 http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=12415fae0e5af6a762e14eee8017ca10&key=0ae4216d6d772906acd1531c12adaead
-#EXTINF:-1 tvg-id="355" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="MuZu | Chinese",ASTRO AOD 355
-http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09db4c1b805ee425c48f2f328e641110&key=280b40db599c53c1620d3fc0e41c7fdd
@@ -1843,13 +1768,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=36886a39c10db1d40b475aa8cf7f6b10&key=1fdf84adbe05d8183d140b9a2e116a96
-#EXTINF:-1 tvg-id="323" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVBSNEWS_v4.png" group-title="MuZu | Chinese",TVBS NEWS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_primary.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
 #EXTINF:-1 tvg-id="111" tvg-logo="http://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png" group-title="MuZu | Chinese",GO SHOP
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_primary.mpd
@@ -1880,11 +1798,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
 #EXTINF:-1 tvg-id="396" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="MuZu | Korea",K PLUS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
-#EXTINF:-1 tvg-id="394" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OhK_v1.png" group-title="MuZu | Korea",OH!K
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
@@ -1959,11 +1872,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c895c9ffb76edf62261e7588665a7310&key=2bd500fc595131eaf160258a85dc72b6
 #EXTINF:-1 tvg-id="706" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="MuZu | Variety",HITS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c7fa397ac42a9a4c6375a3653db84710&key=cd6bf0c7a2a8937e0a0431762189149f
-#EXTINF:-1 tvg-id="705" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KIX_HD_v1.png" group-title="MuZu | Variety",KIX
-http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8762b5ff9680955e720e5ecb5ce78a10&key=187d7e7cb322853a0b485c47a7a12135
@@ -2065,29 +1973,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=006482b5d028cea9803e89daf599a810&key=cf5be288741818ab252dba02533764be
-#EXTINF:-1 tvg-id="601" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_SK.png" group-title="MuZu | Education",ASTRO TUTOR TV SK
-https://linearjitp-playback.astro.com.my/dash-wv/linear/214/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=98520edaa7e795491384e42e096cb210&key=5c6d29c59356da04814e0218f8a63800
 #EXTINF:-1 tvg-id="601" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_SK.png" group-title="MuZu | Education",ASTRO TUTOR TV SK
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a778dba8725013f6f3ceea5f4025110&key=ae73ac1806eca1119473db3515ff4d60
-#EXTINF:-1 tvg-id="602" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_PT3_v1.png" group-title="MuZu | Education",ASTRO TUTOR TV PT3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/314/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=aa16cabfc85efa0805355cebbea9ed10&key=5cb8814069cfdcbd4f3a50fb025ea585
-#EXTINF:-1 tvg-id="603" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_SPM_v1.png" group-title="MuZu | Education",ASTRO TUTOR TV SPM
-https://linearjitp-playback.astro.com.my/dash-wv/linear/313/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19a1cf0746cab453b5209892ddbf0010&key=42fb52739bf87e74dbdc872c492191b5
-#EXTINF:-1 tvg-id="603" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SMK_v1.png" group-title="MuZu | Education",ASTRO TUTOR TV SMK
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5065/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9c2ddae69c761e9fdda60d8e71763b10&key=652cbc3c9528f236655473ef8240bb6c
