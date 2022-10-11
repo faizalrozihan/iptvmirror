@@ -1618,7 +1618,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a4fb03a7f0b51c6264b70203ebcde10&key=abf3210c7882b3838b66e256d3d72840
-#EXTINF:-1 tvg-id="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="MuZu | myFreeview",AWESOME TV
+#EXTINF:-1 tvg-id="123" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AwesomeTV.png" group-title="MuZu | myFreeview",AWESOME TV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV6" group-title="MuZu | myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
