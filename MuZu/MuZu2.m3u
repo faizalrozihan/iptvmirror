@@ -17,7 +17,7 @@ window.location = "https://www.astro.com.my"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
 #EXTINF:-1 tvg-id="106" tvg-name="MY - ASTRO OASIS HD" tvg-logo="" group-title="MALAYSIA|ASTRO",MY - ASTRO OASIS HD
-https://nonton.site:8443/blink4/frknnyvc9e/37334
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
@@ -1640,11 +1640,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e43b89a409027b38c471e4088cf76210&key=2ded2169b89a80a1179f501fa3b6c081
 #EXTINF:-1 tvg-id="214" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Adithiya_v1.png" group-title="MuZu | India",ADITHYA
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19e79967a0f1ead8bb7bc453bbc3d110&key=592722a6819d1226921e68d689262497
-#EXTINF:-1 tvg-id="213" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Chutti_TV_v1.png" group-title="MuZu | India",CHUTTI TV
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=18fe29fdda1b4ca306b4d8f08786fd10&key=47f6fa3ca0462021aa1c0c09253ece58
