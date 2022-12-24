@@ -6,26 +6,20 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8
 #EXTINF:-1 tvg-id="TV2" group-title="RTM" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/tv2.png",TV2
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
 #EXTINF:-1 tvg-id="TV3" group-title="Media Prima" ch-number="103" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/tv3.png",TV3
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="Media Prima" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/ntv7.png",NTV7
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
-# https://aqfadtv.astradamy.com/stream/DidikTVKPM.php
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="Media Prima" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/8tv.png",8TV 
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-# https://unifi-live02.secureswiftcontent.com/UnifiSD/live02.mpd
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="Media Prima" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/tv9.png",TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-# https://aqfadtv.astradamy.com/stream/TV9.php
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="Media Prima" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/dramasangat.png",Drama Sangat
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="OKEY" group-title="RTM" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/okey.png",OKEY
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
@@ -42,4 +36,4 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani" group-title="News" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/awani.png",Astro Awani 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
